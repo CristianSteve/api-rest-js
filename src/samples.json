@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name" : "Pelicula 1",
+        "year" : "2008"
+    },
+    {
+        "id": "2",
+        "name" : "Pelicula 2",
+        "year" : "2005"
+    },
+    {
+        "id": "3",
+        "name" : "Pelicula 3",
+        "year" : "2009"
+    }
+]
